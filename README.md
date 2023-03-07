@@ -42,7 +42,7 @@ CSS
 - *[Linter is used]*
 
 <!-- LIVE DEMO -->
-## [🚀Live Demo]
+## [🚀Live Demo](https://dorcas126.github.io/Personal-portfolio-project/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
